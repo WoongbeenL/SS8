@@ -9,6 +9,7 @@ import java.util.*;
 public class e1a {
     public static void main(String[] args) throws IOException {
         // LOLOLOLO
+        // sup
         Scanner scan = new Scanner(new FileReader("e1a.txt."));
         double dAve = 0;
         NumberFormat nf = NumberFormat.getNumberInstance();
